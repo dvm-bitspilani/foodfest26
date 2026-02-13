@@ -1,1 +1,1 @@
-# foodfest26
+# Food Fest 2026 App
